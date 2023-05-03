@@ -1,0 +1,20 @@
+# Vietnamese translation of Commerce Stripe (8.x-1.0)
+# Copyright (c) 2023 by the Vietnamese translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Commerce Stripe (8.x-1.0)\n"
+"POT-Creation-Date: 2023-04-17 06:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Expiration date"
+msgstr "Ngày hết hạn"
+msgid "Secret key"
+msgstr "Khóa bí mật"
+msgid "Card number"
+msgstr "Số thẻ"
